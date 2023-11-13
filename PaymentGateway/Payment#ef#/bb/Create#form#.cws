@@ -389,7 +389,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6ff855858e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1a561f53af9f"
 					path="Airservices/Images/CardTemplet1.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -891,7 +891,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e6be0d38e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d4f65e8af9f"
 					path="PaymentGateway/Images/VisaCard.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -961,7 +961,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e70afaf8e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d4e96efaf9f"
 					path="PaymentGateway/Images/MasterCard.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1027,7 +1027,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e72fd990e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d583db02f9f"
 					path="PaymentGateway/Images/Cash.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1093,7 +1093,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e6fb53a0e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d526f54af9f"
 					path="PaymentGateway/Images/Paytm.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1159,7 +1159,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e7012140e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d5381082f9f"
 					path="PaymentGateway/Images/oxygen.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1225,7 +1225,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e705ca38e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d554fb7af9f"
 					path="PaymentGateway/Images/Mobikwiki.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1291,7 +1291,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e7202b58e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d565452af9f"
 					path="PaymentGateway/Images/HDFC.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1357,7 +1357,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e725dd28e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d517491af9f"
 					path="PaymentGateway/Images/Citi.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1423,7 +1423,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6e6f5fef0e82"
+					id="86bf01b8-bcbe-a1ee-a07b-1d5a27e22f9f"
 					path="PaymentGateway/Images/SBI.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>

@@ -937,7 +937,7 @@
 							</FalseDisplayName>
 							<FalseIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ff2023c0e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a761ddaaf9f"
 									path="Airservices/Images/NotAvailable.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -965,7 +965,7 @@
 							</TrueDisplayName>
 							<TrueIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ffed58b8e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a60dc1daf9f"
 									path="Airservices/Images/Available.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1065,7 +1065,7 @@
 							</FalseDisplayName>
 							<FalseIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ff2023c0e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a761ddaaf9f"
 									path="Airservices/Images/NotAvailable.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1093,7 +1093,7 @@
 							</TrueDisplayName>
 							<TrueIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ffed58b8e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a60dc1daf9f"
 									path="Airservices/Images/Available.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1193,7 +1193,7 @@
 							</FalseDisplayName>
 							<FalseIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ff2023c0e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a761ddaaf9f"
 									path="Airservices/Images/NotAvailable.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1221,7 +1221,7 @@
 							</TrueDisplayName>
 							<TrueIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ffed58b8e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a60dc1daf9f"
 									path="Airservices/Images/Available.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1298,7 +1298,7 @@
 							<upperBound>1</upperBound>
 							<DefaultImage>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-700014260e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a6677a22f9f"
 									path="Airservices/Images/AirPlane1.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1398,7 +1398,7 @@
 							</FalseDisplayName>
 							<FalseIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ff4a7670e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a751d7caf9f"
 									path="Airservices/Images/Departure.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1424,7 +1424,7 @@
 							</NoneDisplayName>
 							<NoneIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6ff3d3168e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a6852252f9f"
 									path="Airservices/Images/hangar.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>
@@ -1450,7 +1450,7 @@
 							</TrueDisplayName>
 							<TrueIcon>
 								<uri
-									id="00505601-7cf2-a1ee-95ad-6fff80538e82"
+									id="86bf01b8-bcbe-a1ee-a07b-1a83c93aaf9f"
 									path="Airservices/Images/Arrived.png"
 									type="com.cordys.cws.documenttypes.image.Png"
 								/>

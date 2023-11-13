@@ -1144,7 +1144,7 @@
 											<Value>Africa</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff000270e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a637fa72f9f"
 													path="Airservices/Images/SouthAfricaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1189,7 +1189,7 @@
 											<Value>Asia</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff33a238e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a6d425faf9f"
 													path="Airservices/Images/In.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1234,7 +1234,7 @@
 											<Value>NorthAmerica</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6fee04cf0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a4c1bdc2f9f"
 													path="Airservices/Images/USA.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1279,7 +1279,7 @@
 											<Value>Australia</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6fff20de0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a5ad8752f9f"
 													path="Airservices/Images/AustraliaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1324,7 +1324,7 @@
 											<Value>Europe</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff469af0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a6e89ba2f9f"
 													path="Airservices/Images/Eng.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1369,7 +1369,7 @@
 											<Value>SouthAmerica</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff9608b0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a5707542f9f"
 													path="Airservices/Images/BrazilFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

@@ -936,7 +936,7 @@
 											<Value></Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff33a238e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a6d425faf9f"
 													path="Airservices/Images/In.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -981,7 +981,7 @@
 											<Value>70</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6fee04cf0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a4c1bdc2f9f"
 													path="Airservices/Images/USA.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1026,7 +1026,7 @@
 											<Value>120</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6fee51af0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a550de3af9f"
 													path="Airservices/Images/UAE.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1071,7 +1071,7 @@
 											<Value>95</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6ff469af0e82"
+													id="86bf01b8-bcbe-a1ee-a07b-1a6e89ba2f9f"
 													path="Airservices/Images/Eng.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
